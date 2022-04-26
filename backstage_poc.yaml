@@ -1,0 +1,16 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage_poc
+  description: Cloudify blueprint
+  tags:
+    - tosca
+  links:
+    - url: https://15.222.73.170/console/page/blueprints_blueprint/backstage_poc?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22backstage_poc%22%7D%2C%22pageName%22%3A%22backstage_poc%22%7D%5D#!
+      title: Deploy component
+      icon: user
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
