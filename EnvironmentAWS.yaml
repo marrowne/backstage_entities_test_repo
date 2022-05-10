@@ -8,7 +8,7 @@ metadata:
     - tosca
     - cloudify
   links:
-    - url: http://15.222.48.101/console/page/blueprints_blueprint/EnvironmentAWS?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22EnvironmentAWS%22%7D%2C%22pageName%22%3A%22EnvironmentAWS%22%7D%5D#!
+    - url: http://3.96.36.78/console/page/blueprints_blueprint/EnvironmentAWS?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22EnvironmentAWS%22%7D%2C%22pageName%22%3A%22EnvironmentAWS%22%7D%5D#!
       title: Deploy component
       icon: user
 spec:
