@@ -8,7 +8,7 @@ metadata:
     - tosca
     - cloudify
   links:
-    - url: http://35.182.82.48/console/page/blueprints_blueprint/RdsPsqlAWS?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22RdsPsqlAWS%22%7D%2C%22pageName%22%3A%22RdsPsqlAWS%22%7D%5D#!
+    - url: http://99.79.109.166/console/page/blueprints_blueprint/RdsPsqlAWS?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22RdsPsqlAWS%22%7D%2C%22pageName%22%3A%22RdsPsqlAWS%22%7D%5D#!
       title: Deploy component
       icon: user
 spec:
