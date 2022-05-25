@@ -1,0 +1,18 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: VM-Ubuntu-GCP-TFM
+  description: This blueprint creates infrastructure on GCP using Terraform.
+
+  tags:
+    - tosca
+    - cloudify
+  links:
+    - url: http://3.96.109.197/console/page/blueprints_blueprint/VM-Ubuntu-GCP-TFM?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22VM-Ubuntu-GCP-TFM%22%7D%2C%22pageName%22%3A%22VM-Ubuntu-GCP-TFM%22%7D%5D#!
+      title: Deploy component
+      icon: user
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
