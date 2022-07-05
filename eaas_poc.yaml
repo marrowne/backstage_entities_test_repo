@@ -9,7 +9,7 @@ metadata:
     - tosca
     - cloudify
   links:
-    - url: http://35.165.125.42/console/page/blueprints_blueprint/eaas_poc?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22eaas_poc%22%7D%2C%22pageName%22%3A%22eaas_poc%22%7D%5D#!
+    - url: http://15.222.136.63/console/page/blueprints_blueprint/eaas_poc?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22eaas_poc%22%7D%2C%22pageName%22%3A%22eaas_poc%22%7D%5D#!
       title: Deploy component
       icon: user
 spec:
