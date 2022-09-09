@@ -8,7 +8,7 @@ metadata:
     - tosca
     - cloudify
   links:
-    - url: http://44.236.32.150/console/page/blueprints_blueprint/AksAzure?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22AksAzure%22%7D%2C%22pageName%22%3A%22AksAzure%22%7D%5D#!
+    - url: http://100.20.249.206/console/page/blueprints_blueprint/AksAzure?c=%5B%7B%22context%22%3A%7B%7D%7D%2C%7B%22context%22%3A%7B%22blueprintId%22%3A%22AksAzure%22%7D%2C%22pageName%22%3A%22AksAzure%22%7D%5D#!
       title: Deploy component
       icon: user
 spec:
