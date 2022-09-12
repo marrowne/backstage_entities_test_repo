@@ -5,7 +5,7 @@ metadata:
   name: eaas-poc
   description: This is main blueprint - repo and instance wapper.
   annotations:
-    backstage.io/kubernetes-id: eks
+    backstage.io/kubernetes-id: eaas-poc
   tags:
     - tosca
     - cloudify
