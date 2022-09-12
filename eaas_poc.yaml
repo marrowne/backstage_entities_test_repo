@@ -4,7 +4,8 @@ kind: Component
 metadata:
   name: eaas_poc
   description: This is main blueprint - repo and instance wapper.
-
+  annotations:
+  backstage.io/kubernetes-id: my-kubernetes-component
   tags:
     - tosca
     - cloudify
