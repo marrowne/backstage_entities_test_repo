@@ -2,10 +2,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: eaas-poc
+  name: eaas_poc
   description: This is main blueprint - repo and instance wapper.
   annotations:
-    backstage.io/kubernetes-id: eaas-poc
+    backstage.io/kubernetes-id: eaas_poc
   tags:
     - tosca
     - cloudify
